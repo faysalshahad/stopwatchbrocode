@@ -1,0 +1,26 @@
+.timerButton{
+    width: 16rem;
+    height: 7rem;
+    border: 5px solid limegreen;
+    border-radius: 15px;
+    background-color:burlywood;
+    color: darkred;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 5rem;
+    margin-left: 5rem;
+    margin-bottom: 2rem;
+}
+
+#timeDisplay{
+    font-size: 20rem;
+    color: chocolate;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#timeContainer{
+    background-color: antiquewhite;
+    text-align: center;
+    border: 5px solid slateblue;
+    border-radius: 25px;
+}
